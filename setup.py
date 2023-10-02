@@ -14,7 +14,7 @@ setup(
     author="Merlijn Sebrechts",
     author_email="merlijn.sebrechts@ugent.be",
     description=("flask-app for testing."),
-    license="AGPL",
+    license="MIT",
     packages=find_packages(),
     include_package_data=True,
     entry_points={
