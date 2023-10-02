@@ -1,6 +1,6 @@
 # Ubuntu Core Workshop
 
-Welcome to the Ubuntu Core workshop! For an introduction, take a look at the introductory presentation](https://docs.google.com/presentation/d/1QfimuD6Np7FYDX1C1LtbVfTfoo836iiBROZ7NiyHhDs/edit?usp=sharing).
+Welcome to the Ubuntu Core workshop! For an introduction, take a look at [the introductory presentation](https://docs.google.com/presentation/d/1QfimuD6Np7FYDX1C1LtbVfTfoo836iiBROZ7NiyHhDs/edit?usp=sharing).
 
 ## Getting started
 
