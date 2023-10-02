@@ -1,6 +1,6 @@
 # Ubuntu Core Workshop
 
-Creating a self-healing Flask application
+Welcome to the Ubuntu Core workshop! For an introduction, take a look at the introductory presentation](https://docs.google.com/presentation/d/1QfimuD6Np7FYDX1C1LtbVfTfoo836iiBROZ7NiyHhDs/edit?usp=sharing).
 
 ## Getting started
 
@@ -22,8 +22,15 @@ This will open Visual Studio Code in the project assigment repository. Now you'r
 
 * [Build your first IoT snap](./first-snap.md)
 * [Publish your first snap to the Snap Store](./publish-snap.md)
-* [Install Ubuntu Core and manage snaps and Docker containers](./install-ubuntu-core.md)
+* [Install Ubuntu Core, run snaps, Docker containers, and GUI apps](./install-ubuntu-core.md)
 
 ## Extra
 
 When moving Ubuntu Core into production, you will want to create your own Ubuntu Core image, with your own snaps and configuration pre-loaded. To get started, see [Build your own Ubuntu Core image](https://ubuntu.com/core/docs/build-an-image).
+
+## Copyright
+
+* The code in this repository is licensed MIT
+* The documentation in this repository is licensed CC-BY
+
+Feel free to reuse, and remix it, but [let me know](mailto:merlijn.sebrechts@ugent.be) if this is useful to you!.
