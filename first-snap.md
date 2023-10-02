@@ -161,4 +161,4 @@ There are two ways how a hook can specify that something went wrong.
 1. The first way is by failing. When the `check-health` hook fails, snap reverts the snap back.
 2. The second way is by using `snapctl set-health`. The advantage of this approach is that it is possible to add an additional message explaining why exactly the health check failed. For example, `snapctl set-health error "HTTP call to the webserver failed."`. For more information, see the [snapctl set-health reference](https://snapcraft.io/docs/using-snapctl#heading--health-state).
 
-> When you're done with this tutorial, continue to [publishing a snap in the snap store](./publish-snap.md).
+> When you're done with this tutorial, continue to [publishing a snap in the snap store](./publish-snap.md) or [trying out Ubuntu Core on a Raspberry Pi](./install-ubuntu-core.md).
