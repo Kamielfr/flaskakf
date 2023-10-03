@@ -12,7 +12,7 @@ Download the virtual machine for your hypervisor of choice:
 Run the VM and check if you have network connectivity. If you do, run the following commands in a termninal.
 
 ```bash
-git pull https://github.com/idlab-discover/flaska.git
+git clone https://github.com/idlab-discover/flaska.git
 code flaska
 ```
 
